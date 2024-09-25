@@ -1,8 +1,12 @@
-# Python Game
+# Even and Odd Number Difference Game
 
 ## Overview
-This project features a Python-based game developed using [insert framework, e.g., `pygame`]. Players will engage in [briefly describe gameplay, features, and objectives], providing an immersive experience through [highlight key elements, e.g., graphics, sound, and interactivity].
+This is a simple project written in Python that aims to teach the difference between even and odd numbers. The game is developed using the `pygame` framework, providing an interactive experience that allows players to engage with numbers and discover their properties.
 
+## Features
+- **Educational Difference Between Numbers**: Helps players understand how to distinguish between even and odd numbers.
+- **Graphical User Interface**: A simple and appealing design that makes it easy for players to interact with the game.
+- **Exit Option**: Allows players to exit the game easily.
 
 ## Installation
 To set up the project on your local machine, follow these steps:
@@ -11,7 +15,7 @@ To set up the project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/abdulrahim-ramadan/Python-Game.git
    ```
-2. Navigate into the project directory:
+2. Navigate to the project directory:
    ```bash
    cd Python-Game
    ```
@@ -21,10 +25,10 @@ To set up the project on your local machine, follow these steps:
    ```
 
 ## How to Play
-To start the game, execute the following command:
+To run the game, use the following command:
 ```bash
-python Game.py
+python game.py
 ```
 
 ## License
-This project is licensed under the [License Name]. For more details, please refer to the LICENSE file.
+This project is licensed under [License Name]. For more details, please refer to the LICENSE file.
